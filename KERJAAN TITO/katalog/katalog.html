@@ -1,0 +1,53 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="katalog.css" />
+</head>
+<body>
+
+	<div class="kat-widget">
+		<div>
+			<a id="kat-widget-link" target="_blank" href="img/pic1.png"><img id="kat-widget-img" src="img/pic1.png"></a>
+		</div>
+		<div>
+			<img class="kat-widget-button" src="img/button.png" onclick="changeImg1()">
+			<img class="kat-widget-button" src="img/button.png" onclick="changeImg2()">
+			<img class="kat-widget-button" src="img/button.png" onclick="changeImg3()">
+			<img class="kat-widget-button" src="img/button.png" onclick="changeImg4()">
+			<img class="kat-widget-button" src="img/button.png" onclick="changeImg5()">
+		</div>
+	</div>
+
+	<script>
+		function changeImg1(){
+			var img = document.getElementById('kat-widget-img');
+			img.src = "img/pic1.png";
+			var link = document.getElementById('kat-widget-link');
+			link.href = "img/pic1.png";
+		}
+		function changeImg2(){
+			var img = document.getElementById('kat-widget-img');
+			img.src = "img/pic2.png";
+			var link = document.getElementById('kat-widget-link');
+			link.href = "img/pic2.png";
+		}
+		function changeImg3(){
+			var img = document.getElementById('kat-widget-img');
+			img.src = "img/pic3.png";
+			var link = document.getElementById('kat-widget-link');
+			link.href = "img/pic3.png";
+		}
+		function changeImg4(){
+			var img = document.getElementById('kat-widget-img');
+			img.src = "img/pic4.png";
+			var link = document.getElementById('kat-widget-link');
+			link.href = "img/pic4.png";
+		}
+		function changeImg5(){
+			var img = document.getElementById('kat-widget-img');
+			img.src = "img/pic5.png";
+			var link = document.getElementById('kat-widget-link');
+			link.href = "img/pic5.png";
+		}
+	</script>
+</body>
+</html>

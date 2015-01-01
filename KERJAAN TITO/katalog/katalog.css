@@ -1,0 +1,23 @@
+.kat-widget{
+	padding: 25px;
+	width: 350px;
+	border: 2px solid;
+	
+	position: relative;
+	
+	
+}
+.kat-widget-button{
+	margin-top: 15px;
+	width:65px;
+
+}
+#kat-widget-img{
+	width: 346px;
+	
+	display: block;
+	position: relative;
+	border: 2px double;
+	border-radius: 25px;
+
+}
