@@ -146,7 +146,7 @@ ul.wmuSliderPagination {
 }
 /*--about--*/
 .about{
-	padding:5em 5em 5em;
+	padding:5em 0 0;
 }
 .about_left h3{
 	color:#372f2d;
@@ -155,6 +155,38 @@ ul.wmuSliderPagination {
 	font-family: 'Open Sans Condensed', sans-serif;
 	margin-bottom: 0.2em;
 }
+.cat-title h3{
+	color:#372f2d;
+	font-size:4em;
+	text-transform:uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-bottom: 0.2em;
+	text-align: center;
+}
+.cat-title img{
+	width: 100%;
+}
+
+.gal-title h3
+{
+	color:#372f2d;
+	font-size:3em;
+	text-transform:uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-bottom: 0.2em;
+}
+.gal-pic img
+{
+	width: 100%;	
+}
+.collection-title{
+	color:#372f2d;
+	font-size:4em;
+	text-transform:uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-bottom: 0.2em;
+}
+
 p.m_1, p.m_2{
 	color:#372f2d;
 	font-size:0.85em;
