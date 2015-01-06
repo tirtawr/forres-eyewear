@@ -1,0 +1,22 @@
+.kat-widget{
+	padding: 15px;
+	width: 100%;
+	border: 2px solid;
+	
+	position: relative;
+	
+	
+}
+.kat-widget-button{
+	margin-top: 15px;
+	width:17%;
+
+}
+.prodimg{
+	width: 100%;
+	display: block;
+	position: relative;
+	border: 2px double;
+	border-radius: 25px;
+
+}
