@@ -7,21 +7,23 @@
 		   	  	 <div class="col-md-8 about_left">
 		   	  	 	<h3>How to Order</h3>
 		   	  	 	<form action="https://docs.google.com/forms/d/1ytXGdkJXc0oZP4dcc82cuxBkSjPhP1VEFCCskQRJaNU/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
-					<div style="margin:10px 0px" class="ss-form-question errorbox-good" role="listitem">
+					<div class="ss-form-question errorbox-good" role="listitem">
 					<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
 					<label class="ss-q-item-label" for="entry_749499116"><div class="ss-q-title"><p>Nama</p></div>
 
 					<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-					<input type="text" style="margin-left:4em;" size="40" name="entry.749499116" value="" class="ss-q-short" id="entry_749499116" dir="auto" aria-label="Nama  " aria-required="true" required="" title="">
+					<input style="margin-left:7em;" size="40" type="text" name="entry.749499116" value="" class="ss-q-short" id="entry_749499116" dir="auto" aria-label="Nama  " aria-required="true" required="" title="">
 					<div class="error-message" id="215106136_errorMessage"></div>
 					
-					</div></div></div> <div style="margin:10px 0px" class="ss-form-question errorbox-good" role="listitem">
+					</div></div></div> 
+					<br>
+					<div class="ss-form-question errorbox-good" role="listitem">
 					<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
 					<label class="ss-q-item-label" for="entry_833909273"><div class="ss-q-title">No HP
 					<label for="itemView.getDomIdToLabel()" aria-label="(Kolom wajib)"></label>
-					<span class="ss-required-asterisk" aria-hidden="true"></span></div>
+					<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 					<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-					<input type="text" style="margin-left:4em;" size="40" name="entry.833909273" value="" class="ss-q-short" id="entry_833909273" dir="auto" aria-label="No HP  " aria-required="true" required="" title="">
+					<input type="text" style="margin-left:7em;" size="40" name="entry.833909273" value="" class="ss-q-short" id="entry_833909273" dir="auto" aria-label="No HP  " aria-required="true" required="" title="">
 					<div class="error-message" id="1822472735_errorMessage"></div>
 
 					</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">

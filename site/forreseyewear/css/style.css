@@ -35,7 +35,6 @@ body a{
 	background-size: 100% 100%;
 }
 .logo{
-	float:left;
 	text-transform:uppercase;
 	margin-top: 5px;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -44,13 +43,14 @@ body a{
 	padding: 5px 5px;
 	font-size: 30px;
 	margin: 0 10px;
+	text-align: center;
 }
 .logo > a {
     text-decoration: none !important;
 	color: #E0C8A8 !important;
 }
 .cssmenu{
-	float:right;
+	text-align: center;
 	text-transform:uppercase;
 	margin-top: 5px;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -816,4 +816,9 @@ p.m_1, p.m_2 {
 	text-align: center;
 	margin-top: 2em;
 }
+input .ss-q-short
+{
+	float: right;
+}
+
 }

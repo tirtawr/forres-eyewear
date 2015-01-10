@@ -1,8 +1,8 @@
 <?php require "header.php"; ?>
-
 	 <div class="main">
    	  <div class="about">
    	    <div class="container">
+   	    	<br>	
 	    	<div class="row" style="margin-top:40px;">
 	    		<div class="row">
 	    			<div class="col-lg-6 cat-title">

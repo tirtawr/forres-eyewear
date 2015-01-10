@@ -3,6 +3,7 @@
 	<div class="main">
    	  <div class="about">
    	    <div class="container">
+   	    <br>
    	    	<div class="row" style="margin-top:40px;">
 		   	  	 <div class="col-md-8 about_left">
 		   	  	 	<h3>Gallery</h3>
