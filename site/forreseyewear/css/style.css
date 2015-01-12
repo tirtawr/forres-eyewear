@@ -11,7 +11,6 @@ p {margin: 0;}
 html, body{
    font-family: 'Open Sans', sans-serif;
    font-size: 100%;
-   background: url(../images/bg.jpg);
 }
 body a{
 	transition:0.5s all;
@@ -22,7 +21,7 @@ body a{
 }
 .header_top {
 	padding:1em;
-	background:#291f19;
+	background:#A68572;
 	position: fixed;
 	z-index:2;
 	width: 100%;
@@ -65,11 +64,11 @@ ul#nav {
 	display: inline-block;
 }
 .cssmenu > ul > li > a {
-	color: #E0C8A8;
+	color: #291f19;
 	display: block;
 	padding: 5px 5px;
-	font-size: 1.1em;
-	margin: 0 10px;
+	font-size: 1.3em;
+	margin: 0 20px;
 }
  .cssmenu > ul > li > a:hover{
  	text-decoration:none;
@@ -77,12 +76,10 @@ ul#nav {
 }
 /**** Slider *****/
 .example1{
-	background: url(../images/banner.jpg) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	min-height:650px;
-	padding-top:12em;
 }
 .banner-wrap{
 	width: 40%;
@@ -112,6 +109,7 @@ ul#nav {
 .wmuSlider {
 	position: relative;
 	overflow: hidden;
+	animation:'fade';
 }
 .wmuSlider .wmuSliderWrapper article img {
 	max-width: 100%;
@@ -387,6 +385,17 @@ ul.list{
 	padding:0;
 	list-style:none;
 }
+.container
+{
+	width: 100%;
+	padding-left: none;
+}
+.banner-container
+{
+	position:  relative;
+	width: 100%;
+	padding-left: none;
+}
 ul.list li.list1{
 	border-bottom: 1px dashed #555;
 	margin-bottom: 1em;
@@ -631,7 +640,6 @@ h5.m_4 {
 }
 .example1 {
 	min-height: 500px;
-	padding-top: 10em;
 }
 .about_right {
 	text-align:center;
@@ -678,7 +686,6 @@ h5.m_4 {
 }
 .example1 {
 	min-height: 400px;
-	padding-top:7em;
 }
 .wmuSliderPagination {
 	right: 44%;
@@ -741,7 +748,6 @@ h5.m_4 {
 }
 .example1 {
 	min-height: 400px;
-	padding-top: 9em;
 }
 .wmuSliderPagination {
 	right: 42%;
@@ -795,7 +801,6 @@ h3.head {
 }
 .example1 {
 	min-height: 320px;
-	padding-top: 8em;
 }
 .wmuSliderPagination {
 	right: 38%;
