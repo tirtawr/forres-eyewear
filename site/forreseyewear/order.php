@@ -63,7 +63,6 @@
 
 					<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 					<input type="submit" name="submit" value="Kirim" id="ss-submit" class="jfk-button jfk-button-action btn1 btn-1 btn1-1b">
-					
 					</tr></tbody></table></div></ol></form>
 		   	  	 </div>
 		   	  	 <div class="col-md-4 about_right">

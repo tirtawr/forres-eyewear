@@ -7,6 +7,8 @@
 <!-- jQuery -->
 
 <script src="js/jquery-1.11.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 <!-- Custom Theme files -->
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
@@ -31,12 +33,15 @@
 				<ul id="nav">
 					 <li><a href="index.php">Home</a></li>
 					 <li><a href="ourstory.php">Our Story</a></li>
-					 <li><a href="collection.php">Collection</a>
-					 	<!--<ul>
-					 		<li><a href="collection-wild.php">Wild</a></li>
-					 		<li><a href="collection-classic.php">Classic</a></li>
-					 	</ul>-->
-					 </li>
+                     <li class="dropdown">
+                        <a href="collection.php" data-toggle="dropdown" class="dropdown-toggle">Collection<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Elang</a></li>
+                            <li><a href="#">harimau</a></li>
+                            <li><a href="#">Karpa</a></li>
+                            <li><a href="#">Tuero</a></li>
+                        </ul>
+                    </li>
 					 <li><a href="gallery.php">Gallery</a></li>
 				     <li><a href="order.php">How to Order</a></li>
 				</ul>

@@ -4,16 +4,32 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
-		   	  	 <div class="col-md-8 about_left">
-		   	  	 	<br>
+		   	  	 <div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>Our Story</h3>
-		   	  	 	<p class="m_1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet</p>
-		   	  	    <p class="m_2">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum</p>
-		   	  	    	<a href="#" class="btn1 btn-1 btn1-1b">Read More</a>
-		   	  	 </div>
-		   	  	 <div class="col-md-4 about_right">
-
-		   	  	 </div>    		
+		   	  	 	<p class="m_1">
+		   	  	 		We have a vision to explore Indonesia’s richness that hasn’t been used optimally. Wood is one example.
+		   	  	 	</p>
+		   	  	 	<p class="m_1">
+		   	  	 		Why wood? 		   	  	 		
+		   	  	 	</p>
+		   	  	 	<p class="m_1">
+						If you compare wood to other wood, there is all identic. But if you look deeper, they are different in its characteristic and pattern. Same as a human, they are look-alike at the outside, but they have uniqueness and different personality each other.
+		   	  	 	</p>
+		   	  	 	<p class="m_1">
+						Why glasses? 
+		   	  	 	</p>
+		   	  	 	<p class="m_1">
+						In the modern world, glasses has a function not just in helping eye vision, but also a fashion trend to express someone lifestyle. We come to accommodate them, a glasses that hasn’t lost main function with up to date fashionable touch.
+						For all the reason, we create a product which look as the glasses in common , nevertheless they have different unique pattern in every single product.
+						We realize to keep exist in fashion world, we need an approach with urban people which appreciate trend and mode as a part of their lifestyle. Therefore, FORRES EYEWEAR lifts up a natural and exoticism of wooden glasses to hilarious urban lifestyle.
+		   	  	 	</p>
+		   	  	 	<p class="m_1">
+						We hope you are able to be someone different and unique among the diversity of urban lifestyle.
+		   	  	 	</p>
+		   	  	 	<p class="m_1" style="font-size:1.4em">
+						<b>THE ROOT TO YOUR WORTH</b>		   	  	 		
+		   	  	 	</p>
+		   	  	 </div> 	
 			</div>
    	  	</div>
    	 </div>

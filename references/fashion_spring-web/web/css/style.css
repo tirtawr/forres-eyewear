@@ -11,6 +11,7 @@ p {margin: 0;}
 html, body{
    font-family: 'Open Sans', sans-serif;
    font-size: 100%;
+   background: url(../images/bg.jpg);
 }
 body a{
 	transition:0.5s all;
@@ -21,8 +22,8 @@ body a{
 }
 .header_top {
 	padding:1em;
-	background:#A68572;
-	position: static;
+	background:#291f19;
+	position: fixed;
 	z-index:2;
 	width: 100%;
 	clear: both;
@@ -34,22 +35,10 @@ body a{
 	background-size: 100% 100%;
 }
 .logo{
-	text-transform:uppercase;
-	margin-top: 5px;
-	font-family: 'Open Sans Condensed', sans-serif;
-	color: #E0C8A8 !important;
-	display: block;
-	padding: 5px 5px;
-	font-size: 30px;
-	margin: 0 10px;
-	text-align: center;
-}
-.logo > a {
-    text-decoration: none !important;
-	color: #E0C8A8 !important;
+	float:left;
 }
 .cssmenu{
-	text-align: center;
+	float:right;
 	text-transform:uppercase;
 	margin-top: 5px;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -63,22 +52,12 @@ ul#nav {
 .cssmenu > ul > li {
 	display: inline-block;
 }
-.dropdown:hover .dropdown-menu {
-    display: block;
- }
-.dropdown-menu > li > a
-{
-	font-size: 16px;
-	text-align: left;
-	width: 140px;
-	margin: 10px;
-}
 .cssmenu > ul > li > a {
-	color: #291f19;
+	color: #E0C8A8;
 	display: block;
 	padding: 5px 5px;
-	font-size: 1.3em;
-	margin: 0 20px;
+	font-size: 1.1em;
+	margin: 0 10px;
 }
  .cssmenu > ul > li > a:hover{
  	text-decoration:none;
@@ -86,10 +65,12 @@ ul#nav {
 }
 /**** Slider *****/
 .example1{
+	background: url(../images/banner.jpg) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	min-height:650px;
+	padding-top:12em;
 }
 .banner-wrap{
 	width: 40%;
@@ -119,7 +100,6 @@ ul#nav {
 .wmuSlider {
 	position: relative;
 	overflow: hidden;
-	animation:'fade';
 }
 .wmuSlider .wmuSliderWrapper article img {
 	max-width: 100%;
@@ -154,7 +134,7 @@ ul.wmuSliderPagination {
 }
 /*--about--*/
 .about{
-	padding:1em 0 0;
+	padding:5em 0 0;
 }
 .about_left h3{
 	color:#372f2d;
@@ -162,56 +142,14 @@ ul.wmuSliderPagination {
 	text-transform:uppercase;
 	font-family: 'Open Sans Condensed', sans-serif;
 	margin-bottom: 0.2em;
-	text-align:center;
 }
-.cat-title:hover
-{
-	
-}
-.cat-title h3{
-	color:#372f2d;
-	font-size:4em;
-	text-transform:uppercase;
-	font-family: 'Open Sans Condensed', sans-serif;
-	margin-bottom: 0.2em;
-	text-align: center;
-}
-.cat-title img{
-	width: 100%;
-}
-
-.gal-title h3
-{
-	color:#372f2d;
-	font-size:3em;
-	text-transform:uppercase;
-	font-family: 'Open Sans Condensed', sans-serif;
-	margin-bottom: 0.2em;
-}
-.gal-pic img
-{
-	width: 100%;	
-}
-.collection-title{
-	color:#372f2d;
-	font-size:4em;
-	text-transform:uppercase;
-	font-family: 'Open Sans Condensed', sans-serif;
-	margin-bottom: 0.2em;
-}
-
 p.m_1, p.m_2{
 	color:#372f2d;
-	font-size:1.1em;
-	line-height:2.5em;
-	text-align: center;
+	font-size:0.85em;
+	line-height:1.8em;
 }
 p.m_2{
 	margin-top:2em;
-}
-a:hover
-{
-	text-decoration: none;
 }
 .btn1 {
 	border: none;
@@ -342,7 +280,7 @@ ul.portfolio_grids li {
    -moz-transform: translateX(-330px);
    -o-transform: translateX(-330px);
    -ms-transform: translateX(-330px);
-   transform: translateX(-660px);
+   transform: translateX(-330px);
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
    filter: alpha(opacity=100);
    opacity: 1;
@@ -404,17 +342,6 @@ h5.m_4{
 ul.list{
 	padding:0;
 	list-style:none;
-}
-.container
-{
-	width: 100%;
-	padding-left: none;
-}
-.banner-container
-{
-	position:  relative;
-	width: 100%;
-	padding-left: none;
 }
 ul.list li.list1{
 	border-bottom: 1px dashed #555;
@@ -568,7 +495,7 @@ p.copy {
 ul.social {
 	padding: 0;
 	list-style: none;
-	text-align: center;
+	float:right;
 }
 ul.social li:first-child {
 	margin-left: 0;
@@ -660,6 +587,7 @@ h5.m_4 {
 }
 .example1 {
 	min-height: 500px;
+	padding-top: 10em;
 }
 .about_right {
 	text-align:center;
@@ -706,6 +634,7 @@ h5.m_4 {
 }
 .example1 {
 	min-height: 400px;
+	padding-top:7em;
 }
 .wmuSliderPagination {
 	right: 44%;
@@ -768,6 +697,7 @@ h5.m_4 {
 }
 .example1 {
 	min-height: 400px;
+	padding-top: 9em;
 }
 .wmuSliderPagination {
 	right: 42%;
@@ -821,6 +751,7 @@ h3.head {
 }
 .example1 {
 	min-height: 320px;
+	padding-top: 8em;
 }
 .wmuSliderPagination {
 	right: 38%;
@@ -841,9 +772,4 @@ p.m_1, p.m_2 {
 	text-align: center;
 	margin-top: 2em;
 }
-input .ss-q-short
-{
-	float: right;
-}
-
 }

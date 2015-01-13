@@ -4,28 +4,28 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
-	    		<div class="col-lg-3 gal-title">
-	    			<h3><a href="collection-classic-1.php">Harimau Sumatera</a></h3>
-	    			<p>
-	    				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur mollitia hic inventore error debitis totam similique possimus nihil libero, eum dignissimos ab aut minima aliquam sunt labore illum, quisquam, provident?
-	    			</p>
+	    		<div class="col-lg-4 gal-title">
+	    			<h3><a href="collection-classic-1.php" style="text-decoration:none">Tuero</a></h3>
+	    			<h4>Firm, Clear, Simple</h4>
+	   	  	    	<a href="order.php" class="btn1 btn-1 btn1-1b">Add to Cart</a>	    			
 	    		</div>
-	    		<div class="col-lg-9 gal-pic">
-	    			<img src="images/banner.jpg" alt="" onclick="imageClick('collection-classic-1.php')">
+	    		<div class="col-lg-8 gal-pic">
+	    			<img src="images/tuero-1.jpg" alt="" onclick="imageClick('collection-classic-1.php')">
 	    		</div>
 	    	</div> 	
 	    	<div class="clearfix">
 	    		
 	    	</div>	
 	    	<div class="row" style="margin-top:40px;">
-	    		<div class="col-lg-9 gal-pic">
-	    			<img src="images/banner.jpg" alt="" onclick="imageClick('collection-classic-2.php')">
+	    		<div class="col-lg-8 gal-pic">
+	    			<img src="images/karpa-1.jpg" alt="" onclick="imageClick('collection-classic-2.php')">
 	    		</div>
-	    		<div class="col-lg-3 gal-title">
-	    			<h3><a href="collection-classic-1.php">Elang Jawa</a></h3>
-	    			<p>
-	    				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro pariatur, laboriosam reprehenderit, deserunt veritatis voluptatum at cum ab non, itaque modi aspernatur iusto iure quia numquam saepe? Magni aliquid, obcaecati.
-	    			</p>
+	    		<div class="col-lg-4 gal-title">
+	    			<h3><a href="collection-classic-1.php">Karpa</a></h3>
+	    			<h4>
+		    			Warm, Dynamic, Tough
+	    			<h4>
+	   	  	    	<a href="order.php" class="btn1 btn-1 btn1-1b">Add to Cart</a>
 	    		</div>
 	    	</div>
 	    </div>
