@@ -5,12 +5,12 @@
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
 		   	  	 <div class="col-md-5 about_left">
-		   	  	 	<h3>Wild 2</h3>
+		   	  	 	<h3>The Sumatran Tiger</h3>
 		   	  	 	<div class="kat-widget">
 						<div>
-							<a id="kat-widget-link" target="_blank" href="images/pic1A.png"><img class="prodimg" id="kat-widget-img" src="images/pic1A.png"></a>
+							<a id="kat-widget-link" target="_blank" href="images/harimau-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/harimau-1.jpg"></a>
 						</div>
-						<center>
+						<!--<center>
 						<div>
 							<img id="but1" class="kat-widget-button" src="images/button.png" onclick="changeImg(1)">
 							<img id="but2" class="kat-widget-button" src="images/button.png" onclick="changeImg(2)">
@@ -22,15 +22,22 @@
 							<img class="kat-widget-button" src="images/button.png" onclick="changeClear()">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeDark()">
 						</div>
-					</center>
+					</center>-->
 					</div>
 		   	  	 	
 		   	  	 </div>
 		   	  	 <div class="col-md-7 about_right">
-		   	  	 	<p class="m_1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet</p>
-		   	  	    <p class="m_2">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum</p>
-		   	  	    <a href="#" class="btn1 btn-1 btn1-1b">Read More</a>
-		   	  	 </div>    		
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 		
+		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;The design of these glasses are inspired by the unique lines and shape of the tiger. The wooden material of these glasses are made of  Jengkol wood and is light to carry wherever you go.</p>
+		   	  	    <p class="m_1" style="text-align:justify">
+		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;Our Wild Edition is inspired by the endemic fauna of Indonesia. It has a series of designs that are portrayed from the lines, shapes and characteristics of a fauna.</p>
+		   	  	    <p class="m_1" style="text-align:justify">
+		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Be wild in facing your every day activities. Don&#8217;t be afraid to stand out from the crowd and let yourself show who you are and how unique you can be.</p>
+		   	  	    </p><br>
+		   	  	    <h4><b>Price : 949k</b></h4>
+		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
+		   	  	 </div>   		
 			</div>
    	  	</div>;
    	 </div>

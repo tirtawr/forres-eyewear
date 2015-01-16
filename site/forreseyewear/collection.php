@@ -11,7 +11,7 @@
                    <img src="images/wild-2.jpg" class="img-responsive" alt=""/>
                     <div class="mask">
                       <div class="mask1">
-                      <p><i>“There is a love of wild nature in everybody”</i>– John Muir</p>
+                      <p><i>&quot;There is a love of wild nature in everybody&quot;</i> &#8211; John Muir</p>
                          <a class="popup-with-zoom-anim" href="collection-wild.php"> <div class="info">Next</div></a>
 		              </div>
                      </div>
@@ -24,7 +24,7 @@
                    <img src="images/classic-2.jpg" class="img-responsive" alt=""/>
                     <div class="mask">
                       <div class="mask1">
-                      <p><i>“Simplicity is the ultimate sophistication.”</i>― Leonardo da Vinci </p>
+                      <p><i>&quot;Simplicity is the ultimate sophistication.&quot;</i> &#8211; Leonardo da Vinci </p>
                          <a class="popup-with-zoom-anim" href="collection-classic.php"> <div class="info">Next</div></a>
 		              </div>
                      </div>

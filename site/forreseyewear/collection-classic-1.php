@@ -5,12 +5,12 @@
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
 		   	  	 <div class="col-md-5 about_left">
-		   	  	 	<h3>Classic 1</h3>
+		   	  	 	<h3>Karpa</h3>
 		   	  	 	<div class="kat-widget">
 						<div>
-							<a id="kat-widget-link" target="_blank" href="images/pic1A.png"><img class="prodimg" id="kat-widget-img" src="images/pic1A.png"></a>
+							<a id="kat-widget-link" target="_blank" href="images/karpa-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/karpa-1.jpg"></a>
 						</div>
-						<center>
+						<!--<center>
 						<div>
 							<img id="but1" class="kat-widget-button" src="images/button.png" onclick="changeImg(1)">
 							<img id="but2" class="kat-widget-button" src="images/button.png" onclick="changeImg(2)">
@@ -22,14 +22,23 @@
 							<img class="kat-widget-button" src="images/button.png" onclick="changeClear()">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeDark()">
 						</div>
-					</center>
+					</center>-->
 					</div>
 		   	  	 	
 		   	  	 </div>
 		   	  	 <div class="col-md-7 about_right">
-		   	  	 	<p class="m_1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet</p>
-		   	  	    <p class="m_2">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum</p>
-		   	  	    <a href="#" class="btn1 btn-1 btn1-1b">Read More</a>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 		
+		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Karpa portrays a warm and enthusiastic statement. Its vintage frame design has a layering material of two wooden materials: Teak and Rosewood.</p>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;The combination of  golden to medium-brown Teak and dark Rosewood gives an element of warmth, projecting an elegant appearance for every day use.</p>
+		   	  	    <p class="m_1" style="text-align:justify">
+		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;Our Classic Edition is accented with the layering of multiple wooden materials. The combination of classic frame design and layering effect adds a trace of uniqueness and authenticity, but still portrays a taste of simplicity.</p>
+		   	  	    <p class="m_1" style="text-align:justify">
+		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Forests in Indonesia become the inspiration to naming each Classic Edition design. They are the core homeland of where the heart of our products originated.</p>
+		   	  	    </p><br>
+		   	  	    <h4><b>Price : 849k</b></h4>
+		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
 		   	  	 </div>    		
 			</div>
    	  	</div>;

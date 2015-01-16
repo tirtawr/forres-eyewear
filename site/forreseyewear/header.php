@@ -36,14 +36,14 @@
                      <li class="dropdown">
                         <a href="collection.php" data-toggle="dropdown" class="dropdown-toggle">Collection<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Elang</a></li>
-                            <li><a href="#">harimau</a></li>
-                            <li><a href="#">Karpa</a></li>
-                            <li><a href="#">Tuero</a></li>
+                            <li><a href="collection-wild-1.php">Elang</a></li>
+                            <li><a href="collection-wild-2.php">harimau</a></li>
+                            <li><a href="collection-classic-1.php">Karpa</a></li>
+                            <li><a href="collection-classic-2.php">Tuero</a></li>
                         </ul>
                     </li>
 					 <li><a href="gallery.php">Gallery</a></li>
-				     <li><a href="order.php">How to Order</a></li>
+				     <li><a href="order.php">Order Form</a></li>
 				</ul>
 		    </div>
 			<div class="clearfix"> </div>
