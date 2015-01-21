@@ -4,7 +4,7 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
-		   	  	 <div class="col-md-5 about_left">
+	    		<div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>Karpa</h3>
 		   	  	 	<div class="kat-widget">
 						<div>
@@ -24,10 +24,7 @@
 						</div>
 					</center>-->
 					</div>
-		   	  	 	
-		   	  	 </div>
-		   	  	 <div class="col-md-7 about_right">
-		   	  	 	<p class="m_1" style="text-align:justify">
+					<p class="m_1" style="text-align:justify">
 		   	  	 		
 		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Karpa portrays a warm and enthusiastic statement. Its vintage frame design has a layering material of two wooden materials: Teak and Rosewood.</p>
 		   	  	 	<p class="m_1" style="text-align:justify">
@@ -39,9 +36,11 @@
 		   	  	    </p><br>
 		   	  	    <h4><b>Price : 849k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
-		   	  	 </div>    		
-			</div>
-   	  	</div>;
+		   	  	 	
+		   	  	    
+		   	  	 </div>
+		   	  	 
+   	  	</div>
    	 </div>
 	 </div>
 	<script>

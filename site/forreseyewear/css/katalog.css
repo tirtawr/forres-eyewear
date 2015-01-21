@@ -1,7 +1,10 @@
 .kat-widget{
+	/*
 	padding: 15px;
-	width: 100%;
 	border: 2px solid;
+	*/
+	width: 100%;
+	
 	
 	position: relative;
 	
@@ -13,10 +16,13 @@
 
 }
 .prodimg{
+	/*
+	border: 2px double;
+	border-radius: 25px;
+	*/
 	width: 100%;
 	display: block;
 	position: relative;
-	border: 2px double;
-	border-radius: 25px;
+
 
 }

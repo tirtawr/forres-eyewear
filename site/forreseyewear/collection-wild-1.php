@@ -4,7 +4,7 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
-		   	  	 <div class="col-md-5 about_left">
+	    		<div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>The Javan Hawk-Eagle</h3>
 		   	  	 	<div class="kat-widget">
 						<div>
@@ -24,9 +24,6 @@
 						</div>
 					</center>-->
 					</div>
-		   	  	 	
-		   	  	 </div>
-		   	  	 <div class="col-md-7 about_right">
 		   	  	 	<p class="m_1" style="text-align:justify">
 		   	  	 		
 		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;The Javan Hawk-Eagle is majestic with its unique pattern of feathers and its black crest on its head. The design of these glasses are inspired by this species and has wooden material of Rosewood.</p>
@@ -39,9 +36,12 @@
 		   	  	    </p><br>
 		   	  	    <h4><b>Price : 949k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
-		   	  	 </div>    		
+		   	  	 	
+		   	  	 	
+		   	  	 </div>
+		   	  	     		
 			</div>
-   	  	</div>;
+   	  	</div>
    	 </div>
 	 </div>
 	<script>

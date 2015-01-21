@@ -5,7 +5,7 @@
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
 	    		<div class="col-lg-4 gal-title">
-	    			<h3><a href="collection-classic-1.php" style="text-decoration:none">Tuero</a></h3>
+	    			<h3><a href="collection-classic-2.php" style="text-decoration:none">Tuero</a></h3>
 	    			<h4>Firm, Clear, Simple</h4>
 	   	  	    	<!--<a href="order.php" class="btn1 btn-1 btn1-1b">Add to Cart</a>-->	    			
 	    		</div>

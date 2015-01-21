@@ -1,0 +1,27 @@
+REVISI Tahap 1
+
+1. Ubah Home Page sesuai dengan gambar yang diberi, ketika dibka seluruh foto keliatan.
+	-slider kasih tanda panah
+2. Header
+	-Kasih separator garis antara header dan body
+	-Logo dikecilin
+	-Font dikecilin
+	-Background putih
+	-Text tetap hitam, on hover jadi coklat
+	-Dibawah logo ditambahin "The root to your worth"
+	-Di bawah social links dikasih separator trus dikasih copyright information
+	-Menu dropdown collection jadi wild and classic
+3. Collection
+	-Tegar udah ngerti
+4. Individual page 	product
+	-Gambar ga usah pake border.
+
+5. Kesalahan pengerjaan
+	-ada link yang salah
+6. Text
+	-Spasi didempetin
+	-font dikecilin
+7. Order Form
+	-Textarea jadi 2-3 rows
+	-notes for us dihilangin
+	-tiap product puya field sndiri

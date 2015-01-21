@@ -10,9 +10,7 @@
 		   	  	 	<p class="m_1">We share our program and activity to keep in touch with you</p>
 		   	  	    
 		   	  	 </div>
-		   	  	 <div class="col-md-4 about_right">
-
-		   	  	 </div>    		
+		   	  	     		
 			</div>
    	    </div>
    	  </div>

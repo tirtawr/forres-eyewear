@@ -4,7 +4,7 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" style="margin-top:40px;">
-		   	  	 <div class="col-md-5 about_left">
+	    		<div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>The Sumatran Tiger</h3>
 		   	  	 	<div class="kat-widget">
 						<div>
@@ -24,9 +24,6 @@
 						</div>
 					</center>-->
 					</div>
-		   	  	 	
-		   	  	 </div>
-		   	  	 <div class="col-md-7 about_right">
 		   	  	 	<p class="m_1" style="text-align:justify">
 		   	  	 		
 		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;The design of these glasses are inspired by the unique lines and shape of the tiger. The wooden material of these glasses are made of  Jengkol wood and is light to carry wherever you go.</p>
@@ -37,9 +34,13 @@
 		   	  	    </p><br>
 		   	  	    <h4><b>Price : 949k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
-		   	  	 </div>   		
+		   	  	 	
+		   	  	    
+		   	  	 </div>
+		   	  	 
+		   	  	    		
 			</div>
-   	  	</div>;
+   	  	</div>
    	 </div>
 	 </div>
 	<script>
