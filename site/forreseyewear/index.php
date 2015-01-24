@@ -1,28 +1,14 @@
 <?php require "header.php"; ?>
+
+<!-- <hr style="color: #291f19; background: #291f19; width: 99%; height: 1.5px;"> -->
 <div class="banner-container">
-	 <div class="wmuSlider example1 section" id="section-1">
-			   <article style="position: absolute; width: 100%; opacity: 0;"> 
-			   <img src="images/banner1.jpg" alt="" style="width:100%;">
-				</article>
-				<article style="position: absolute; width: 100%; opacity: 0;"> 
-			   <img src="images/banner2.jpg" alt="" style="width:100%;">
-				</article>
-				<article style="position: absolute; width: 100%; opacity: 0;"> 
-			   <img src="images/banner3.jpg" alt="" style="width:100%;">
-				</article>
-				<article style="position: absolute; width: 100%; opacity: 0;"> 
-			   <img src="images/banner4.jpg" alt="" style="width:100%;">
-				</article>
-				<ul class="wmuSliderPagination">
-                	<li><a href="#" class="">0</a></li>
-                	<li><a href="#" class="">1</a></li>
-                	<li><a href="#" class="">2</a></li>
-                </ul>
-		  </div>
-          <script src="js/jquery.wmuSlider.js"></script> 
-			<script>
-       			$('.example1').wmuSlider();         
-   		    </script> 	
+	<div id="owl-demo" class="owl-carousel owl-theme"> 
+	  <div class="item"><img src="images/banner1-final.jpg" alt="The Last of us" style="width:100%"></div>
+	  <div class="item"><img src="images/banner1-final.jpg" alt="GTA V" style="width:100%"></div>
+	  <div class="item"><img src="images/banner1-final.jpg" alt="Mirror Edge" style="width:100%"></div>
+	 
+	</div>
 </div>
+<!-- <hr style="color: #291f19; background: #291f19; width: 99%; height: 1.5px;"> -->
 
 <?php require "footer.php"; ?>

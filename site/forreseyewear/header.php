@@ -20,14 +20,30 @@
 <!-- Add fancyBox main JS and CSS files -->
 
 <!--TITO-->
-<link rel="stylesheet" type="text/css" href="css/katalog.css" />
+<link rel="stylesheet" type="text/css" href="css/katalog.css"/>
+
+<link rel="stylesheet" href="css/owl.carousel.css">
+ 
+<!-- Default Theme -->
+<link rel="stylesheet" href="css/owl.theme.css">
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,800,300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<link rel="stylesheet" type="text/css" href="css/set1.css"/>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+<!-- Include js plugin -->
+<script src="js/owl.carousel.js"></script>
+<script src="js/jquery.hoverizr.js"></script>
+
 
 </head>
 <body>
 	<div class="header_top">
 	  <div class="container">
 		  <div class="logo">
-			 <a href="index.php"><img src="images/logoforres.png" alt=""></a>
+			 <a href="index.php"><img src="images/logoforres40.png" alt=""></a>
 		  </div>
 		  <div class="cssmenu">
 				<ul id="nav">
@@ -36,10 +52,8 @@
                      <li class="dropdown">
                         <a href="collection.php" data-toggle="dropdown" class="dropdown-toggle">Collection<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="collection-wild-1.php">Elang</a></li>
-                            <li><a href="collection-wild-2.php">harimau</a></li>
-                            <li><a href="collection-classic-1.php">Karpa</a></li>
-                            <li><a href="collection-classic-2.php">Tuero</a></li>
+	                        <li><a href="collection-wild.php">Wild</a></li>
+	                        <li><a href="collection-classic.php">Classic</a></li>
                         </ul>
                     </li>
 					 <li><a href="gallery.php">Gallery</a></li>
