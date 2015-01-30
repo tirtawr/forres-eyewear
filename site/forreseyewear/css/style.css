@@ -34,7 +34,7 @@ body a{
 
 .header_top {
 	padding:0.3em;
-	background:#A68572;
+	/*background:#A68572;*/
 	position: static;
 	z-index:2;
 	width: 100%;
@@ -101,7 +101,7 @@ ul#nav {
 }
  .cssmenu > ul > li > a:hover{
  	text-decoration:none;
- 	color:#fff;
+ 	color:#A68572;
 }
 /**** Slider *****/
 .example1{
@@ -577,7 +577,9 @@ h3.head{
 	margin-bottom:1em;
 }
 .footer_bottom{
-	padding:1.5em 0 1em;
+	margin-top: 10px;
+	background:#A68572;
+	padding:0.5em 0 1em;
 }
 p.copy {
 	float:left;

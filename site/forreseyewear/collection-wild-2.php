@@ -3,7 +3,7 @@
 	 <div class="main">
    	  <div class="about">
    	    <div class="container">
-	    	<div class="row" style="margin-top:40px;">
+	    	<div class="row" >
 	    		<div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>The Sumatran Tiger</h3>
 		   	  	 	<div class="kat-widget">

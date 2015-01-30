@@ -1,18 +1,17 @@
      <div class="footer_bottom">
-         <div class="container">
-           	 <ul class="social" style="letter-spacing:2px">
-                <a href="www.facebook.com"><i class="fa fa-facebook fa-2x"></i></a>                
-                <a href="www.twitter.com"><i class="fa fa-twitter fa-2x"></i></a>
-                <a href="www.instagram.com"><i class="fa fa-instagram fa-2x"></i></a>
-			</ul>
-		 </div>
-     </div> 
-     <div class="header_top">
-         <br><br><br>
+        
+       <div class="container" style="margin: 15px 0px">
+       <ul class="social" style="letter-spacing:2px">
+          <a href="www.facebook.com"><i class="fa fa-facebook fa-2x"></i></a>                
+          <a href="www.twitter.com"><i class="fa fa-twitter fa-2x"></i></a>
+          <a href="www.instagram.com"><i class="fa fa-instagram fa-2x"></i></a>
+       </ul>
+      </div>
          <p>
-             Copyright &copy Forreseyewear 2015
+             <center>Copyright &copy Forreseyewear 2015</center>
          </p>
-     </div>
+     </div> 
+     
      <script>
 $('.ex2').hoverizr({speedOut: 'fast',effect:"blur",overlay: "bottom",container: "blurry",stretch: "yes"});
 
