@@ -10,19 +10,19 @@
 						<div>
 							<a id="kat-widget-link" target="_blank" href="images/harimau-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/harimau-1.jpg"></a>
 						</div>
-						<!--<center>
+						<center>
 						<div>
-							<img id="but1" class="kat-widget-button" src="images/button.png" onclick="changeImg(1)">
-							<img id="but2" class="kat-widget-button" src="images/button.png" onclick="changeImg(2)">
-							<img id="but3" class="kat-widget-button" src="images/button.png" onclick="changeImg(3)">
-							<img id="but4" class="kat-widget-button" src="images/button.png" onclick="changeImg(4)">
-							<img id="but5" class="kat-widget-button" src="images/button.png" onclick="changeImg(5)">
+							<img id="but1" class="kat-widget-button" src="images/but-tiger-1.jpg" onclick="changeImg(1)">
+							<img id="but2" class="kat-widget-button" src="images/but-tiger-2.jpg" onclick="changeImg(2)">
+							<img id="but3" class="kat-widget-button" src="images/but-tiger-3.jpg" onclick="changeImg(3)">
+							<img id="but4" class="kat-widget-button" src="images/but-tiger-4.jpg" onclick="changeImg(4)">
+							<img id="but5" class="kat-widget-button" src="images/harimau-1.jpg" onclick="changeImg(5)">
 						</div>
-						<div>
+						<!--<div>
 							<img class="kat-widget-button" src="images/button.png" onclick="changeClear()">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeDark()">
-						</div>
-					</center>-->
+						</div>-->
+					</center>
 					</div>
 		   	  	 	<p class="m_1" style="text-align:justify">
 		   	  	 		
@@ -61,24 +61,24 @@
 			if(curmod=="clear"){
 				switch (n) {
 				    case 1:
-				        img.src = "images/pic1A.png";
-						link.href = "images/pic1A.png";
+				        img.src = "images/tiger-1.jpg";
+						link.href = "images/tiger-1.jpg";
 				        break;
 				    case 2:
-				        img.src = "images/pic2A.png";
-						link.href = "images/pic2A.png";
+				        img.src = "images/tiger-2.jpg";
+						link.href = "images/tiger-2.jpg";
 				        break;
 				    case 3:
-				        img.src = "images/pic3A.png";
-						link.href = "images/pic3A.png";
+				        img.src = "images/tiger-3.jpg";
+						link.href = "images/tiger-3.jpg";
 				        break;
 				    case 4:
-				        img.src = "images/pic4A.png";
-						link.href = "images/pic4A.png";
+				        img.src = "images/tiger-4.jpg";
+						link.href = "images/tiger-5.jpg";
 				        break;
 				    case 5:
-				        img.src = "images/pic5A.png";
-						link.href = "images/pic5A.png";
+				        img.src = "images/harimau-1.jpg";
+						link.href = "images/harimau-1.jpg";
 				        break;
 				}
 			}else{//NOT CLEAR

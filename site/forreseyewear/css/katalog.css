@@ -11,6 +11,7 @@
 	
 }
 .kat-widget-button{
+	border: 2px solid;
 	margin-top: 15px;
 	width:17%;
 
@@ -20,7 +21,9 @@
 	border: 2px double;
 	border-radius: 25px;
 	*/
-	width: 100%;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
 	display: block;
 	position: relative;
 

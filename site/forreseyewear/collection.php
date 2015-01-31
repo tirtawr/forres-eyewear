@@ -16,7 +16,7 @@
             <figcaption>
               <h2><span>Classic</span></h2>
               <p>&quot;Simplicity is the ultimate sophistication.&quot; &#8211; Leonardo da Vinci </p>
-              <a href="collection-wild.php">View more</a>
+              <a href="collection-classic.php">View more</a>
             </figcaption>     
           </figure>
         </div>
