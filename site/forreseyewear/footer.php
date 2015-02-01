@@ -24,6 +24,11 @@
 
 $('.ex2').hoverizr({speedOut: 'fast',effect:"blur",overlay: "bottom",container: "blurry",stretch: "yes"});
 
+$(document).ready(function(){
+  $('.your-class').slick({
+  });
+});
+
 $(document).ready(function() {
  
   $("#owl-demo").owlCarousel({
@@ -31,7 +36,8 @@ $(document).ready(function() {
       slideSpeed : 300,
       paginationSpeed : 400,
       singleItem:true,
-      autoPlay : 4000
+      autoPlay : 4000,
+      pagination : false,
  
       // "singleItem:true" is a shortcut for:
       // items : 1, 
@@ -41,8 +47,11 @@ $(document).ready(function() {
       // itemsMobile : false
  
   });
-  $('.slick-demo').slick({   
-  arrows : true, 
+  $('.slick-demo-right').slick({   
+    autoplay : true,
+  });
+  $('.slick-demo-left').slick({   
+    autoplay : true,
   });
  
 });

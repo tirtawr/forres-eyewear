@@ -15,15 +15,35 @@
 		<a href="#" title="banner3"><span><img src="data1/tooltips/banner3.jpg" alt="banner3"/>3</span></a>
 		<a href="#" title="banner4"><span><img src="data1/tooltips/banner4.jpg" alt="banner4"/>4</span></a></div>
 	</div>		
+	</div>
+<div class="row">
+	<div class="col-lg-6">
+		<div class="slick-demo-left"> 
+			  <div class="item"><img src="images/tiger-home.jpg" alt="Tiger" style="width:100%"></div>
+			  <div class="item"><img src="images/elang-home.jpg" alt="Elang" style="width:100%"></div>
+		</div>		
+	</div>
+	<div class="col-lg-6">
+		<div class="slick-demo-right"> 
+			  <div class="item"><img src="images/karpa-home.jpg" alt="Kappa" style="width:100%"></div>
+			  <div class="item"><img src="images/tuero-home.jpg" alt="Tuero" style="width:100%"></div>
+		</div>		
+	</div>
 </div>
-<div>
+<!-- <div class="row">
 	<div style="float:left">
-		<img src="images/homepic1.jpg" alt="">
+		<div id="owl-demo" class="owl-carousel owl-theme"> 
+			  <div class="item"><img src="images/tiger-home.jpg" alt="Tiger" style="width:100%"></div>
+			  <div class="item"><img src="images/elang-home.jpg" alt="Elang" style="width:100%"></div>
+		</div>
 	</div>
 	<div style="float:right">
-		<img src="images/homepic2.jpg" alt="">
+		<div id="owl-demo" class="owl-carousel owl-theme"> 
+			  <div class="item"><img src="images/karpa-home.jpg" alt="Kappa" style="width:100%"></div>
+			  <div class="item"><img src="images/tuero-home.jpg" alt="Tuero" style="width:100%"></div>
+		</div>
 	</div>	
-</div>
+</div> -->
 <div class="clearfix"></div>
 </div>
 <br><br>
@@ -37,6 +57,7 @@
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="js/owl.carousel.js"></script>
 <script src="js/jquery.hoverizr.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
 <script type="text/javascript" src="engine1/wowslider.js"></script>
 <script type="text/javascript" src="engine1/script.js"></script>
 
