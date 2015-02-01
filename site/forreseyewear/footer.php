@@ -1,3 +1,10 @@
+        <hr style="color: #291f19; background: #291f19; height: 2.5px; margin-top:1px; margin-right:20%; margin-left:20%;">
+        <div class="cssmenu">
+        <ul id="nav">
+           <li><a href="warranty.php">Warranty</a></li>
+            <li><a href="contactus.php">Contact Us</a></li>
+        </ul>
+        </div>
      <div class="footer_bottom">
         
        <div class="container" style="margin: 15px 0px">
@@ -8,11 +15,13 @@
        </ul>
       </div>
          <p>
-             <center>Copyright &copy Forreseyewear 2015</center>
+             <center>&copy 2015 Design By Lorem ipsum. All Rights Reserved. Site by Lorem ipsum</center>
          </p>
      </div> 
      
-     <script>
+<script>
+
+
 $('.ex2').hoverizr({speedOut: 'fast',effect:"blur",overlay: "bottom",container: "blurry",stretch: "yes"});
 
 $(document).ready(function() {
@@ -31,6 +40,9 @@ $(document).ready(function() {
       // itemsTablet: false,
       // itemsMobile : false
  
+  });
+  $('.slick-demo').slick({   
+  arrows : true, 
   });
  
 });

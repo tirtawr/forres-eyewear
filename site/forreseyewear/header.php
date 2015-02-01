@@ -32,10 +32,10 @@
 <link rel="stylesheet" type="text/css" href="css/set1.css"/>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
+<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
   
 <!-- Include js plugin -->
-<script src="js/owl.carousel.js"></script>
-<script src="js/jquery.hoverizr.js"></script>
 
 
 </head>
@@ -44,6 +44,8 @@
 	  <div class="container">
 		  <div class="logo">
 			 <a href="index.php"><img src="images/logoforres40.png" alt=""></a>
+			 <div class="clearfix"></div>	
+ 			 <a href="index.php"><img src="images/TheRoot-109.png" alt=""></a>
 		  </div>
 		  <div class="cssmenu">
 				<ul id="nav">
@@ -60,6 +62,7 @@
 				     <li><a href="order.php">Order Form</a></li>
 				</ul>
 		    </div>
+		    <hr style="color: #291f19; background: #291f19; height: 2.5px; margin-top:1px; margin-right:20%; margin-left:20%;">
 			<div class="clearfix"> </div>
 	  	 </div>
 	 </div>
