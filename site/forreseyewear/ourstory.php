@@ -3,8 +3,8 @@
 	 <div class="main">
    	  <div class="about">
    	    <div class="container">
-	    	<div class="row" style="margin-top:40px;">
-		   	  	 <div class="col-md-8 col-lg-offset-2 about_left">
+	    	<div class="row">
+		   	  	 <div class="col-md-8 col-lg-offset-2 about_left" style="margin-top:-20px;">
 		   	  	 	<h3>Our Story</h3>
 		   	  	 	<p class="m_1" style="text-align:justify">
 		   	  	 		We have a vision to explore Indonesia&#8217;s richness that hasn&#8217;t been used optimally. Wood is one example.

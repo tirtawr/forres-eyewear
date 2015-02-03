@@ -4,9 +4,9 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" >
-	    		<div class="col-md-8 col-lg-offset-2 about_left">
+	    		<div class="col-md-8 col-lg-offset-2 about_left" style="margin-top:-20px;">
 		   	  	 	<h3>The Sumatran Tiger</h3>
-		   	  	 	<div class="kat-widget">
+		   	  	 	<div class="kat-widget center" style="width:60%;">
 						<div>
 							<a id="kat-widget-link" target="_blank" href="images/harimau-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/harimau-1.jpg"></a>
 						</div>
@@ -25,13 +25,16 @@
 					</center>
 					</div>
 		   	  	 	<p class="m_1" style="text-align:justify">
-		   	  	 		
-		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;The design of these glasses are inspired by the unique lines and shape of the tiger. The wooden material of these glasses are made of  Jengkol wood and is light to carry wherever you go.</p>
-		   	  	    <p class="m_1" style="text-align:justify">
-		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;Our Wild Edition is inspired by the endemic fauna of Indonesia. It has a series of designs that are portrayed from the lines, shapes and characteristics of a fauna.</p>
-		   	  	    <p class="m_1" style="text-align:justify">
-		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Be wild in facing your every day activities. Don&#8217;t be afraid to stand out from the crowd and let yourself show who you are and how unique you can be.</p>
-		   	  	    </p><br>
+		   	  	 	Sumatran Tiger edition is inspired by the unique lines and shapes of tiger. We bring this edition to make you aware that Indonesia has the beautiful animal that is given full protection due to extinction.
+		   	  	 	</p>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	Wooden Material : Jengkol wood and Teak (smooth layer)
+		   	  	 	</p>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	We choose the Rosewood and Jengkol because of its strong and cool color characteristic that represent our design with Teak wood layer for beautify.
+		   	  	 	</p>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	</p>	
 		   	  	    <h4><b>Price : 949k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
 		   	  	 	

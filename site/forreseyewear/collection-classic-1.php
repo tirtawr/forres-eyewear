@@ -4,9 +4,9 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" >
-	    		<div class="col-md-8 col-lg-offset-2 about_left">
+	    		<div class="col-md-8 col-lg-offset-2 about_left" style="margin-top:-20px;">
 		   	  	 	<h3>Karpa</h3>
-		   	  	 	<div class="kat-widget">
+		   	  	 	<div class="kat-widget center" style="width:60%;">
 						<div>
 							<a id="kat-widget-link" target="_blank" href="images/karpa-5.jpg"><img class="prodimg" id="kat-widget-img" src="images/karpa-5.jpg"></a>
 						</div>
@@ -25,15 +25,12 @@
 						</div>-->
 					</div>
 					<p class="m_1" style="text-align:justify">
-		   	  	 		
-		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Karpa portrays a warm and enthusiastic statement. Its vintage frame design has a layering material of two wooden materials: Teak and Rosewood.</p>
+		   	  	 	The warm characteristic of this design is inspired by one kind forest in Indonesia which dominate natural forest in Indonesia. We make this edition as simple as Indonesia&#39;s forest that looks monochrome but beautiful.
+		   	  	 	</p>
 		   	  	 	<p class="m_1" style="text-align:justify">
-		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;The combination of  golden to medium-brown Teak and dark Rosewood gives an element of warmth, projecting an elegant appearance for every day use.</p>
-		   	  	    <p class="m_1" style="text-align:justify">
-		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;Our Classic Edition is accented with the layering of multiple wooden materials. The combination of classic frame design and layering effect adds a trace of uniqueness and authenticity, but still portrays a taste of simplicity.</p>
-		   	  	    <p class="m_1" style="text-align:justify">
-		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Forests in Indonesia become the inspiration to naming each Classic Edition design. They are the core homeland of where the heart of our products originated.</p>
-		   	  	    </p><br>
+		   	  	 	Wooden material : Teak and Rosewood (smooth layer)
+		   	  	 	</p>
+		   	  	 	
 		   	  	    <h4><b>Price : 849k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
 		   	  	 	

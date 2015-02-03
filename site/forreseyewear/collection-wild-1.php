@@ -4,9 +4,9 @@
    	  <div class="about">
    	    <div class="container">
 	    	<div class="row" >
-	    		<div class="col-md-8 col-lg-offset-2 about_left">
+	    		<div class="col-md-8 col-lg-offset-2 about_left" style="margin-top:-20px;">
 		   	  	 	<h3>The Javan Hawk-Eagle</h3>
-		   	  	 	<div class="kat-widget">
+		   	  	 	<div class="kat-widget center" style="width:60%;">
 						<div>
 							<a id="kat-widget-link" target="_blank" href="images/elang-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/elang-1.jpg"></a>
 						</div>
@@ -24,15 +24,16 @@
 					</center>
 					</div>
 		   	  	 	<p class="m_1" style="text-align:justify">
-		   	  	 		
-		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;The Javan Hawk-Eagle is majestic with its unique pattern of feathers and its black crest on its head. The design of these glasses are inspired by this species and has wooden material of Rosewood.</p>
+		   	  	 	Javan Hawk Eagle is the national bird of Indonesia and endemic in Java island . We adopt the glorious style of this bird to remind you that this bird are endangered because of its limited ongoing habitat loss.	
+		   	  	 	</p>
 		   	  	 	<p class="m_1" style="text-align:justify">
-		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;Its dauntless posture inspires you to be confident and vivacious in facing the world.</p>
-		   	  	    <p class="m_1" style="text-align:justify">
-		   	  	    	&nbsp;&nbsp;&nbsp;&nbsp;Our Wild Edition is inspired by the endemic fauna of Indonesia. It has a series of designs that are portrayed from the lines, shapes and characteristics of a fauna.</p>
-		   	  	    <p class="m_1" style="text-align:justify">
-		   	  	 		&nbsp;&nbsp;&nbsp;&nbsp;Be wild in facing your every day activities. Don&#8217;t be afraid to stand out from the crowd and let yourself show who you are and how unique you can be.</p>
-		   	  	    </p><br>
+		   	  	 	Wooden material : Rosewood (Frame) , Teak (Handle) , and Jengkol wood (Smooth layer in frame)
+		   	  	 	</p>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	We choose the Rosewood and Jengkol because of its strong and cool color characteristic that represent our design with Teak wood layer for beautify.
+		   	  	 	</p>
+		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	</p>	
 		   	  	    <h4><b>Price : 949k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>
 		   	  	 	

@@ -4,7 +4,7 @@
    	  <div class="about">
    	    <div class="container">
    	    
-   	    	<div class="row" style="margin-top:40px;">
+   	    	<div class="row">
 		   	  	 <div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>Contact Us</h3>
 		   	  	 	<p class="m_1" style="text-align:justify">

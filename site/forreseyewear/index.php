@@ -16,7 +16,7 @@
 		<a href="#" title="banner4"><span><img src="data1/tooltips/banner4.jpg" alt="banner4"/>4</span></a></div>
 	</div>		
 	</div>
-<div class="row">
+<div class="row" style="margin-top:15px;">
 	<div class="col-lg-6">
 		<div class="slick-demo-left"> 
 			  <div class="item"><img src="images/tiger-home.jpg" alt="Tiger" style="width:100%"></div>
