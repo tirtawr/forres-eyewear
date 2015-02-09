@@ -12,7 +12,6 @@
 						</div>
 						<center>
 						<div>
-							<img id="but1" class="kat-widget-button" src="images/but-karpa-1.jpg" onclick="changeImg(1)">
 							<img id="but2" class="kat-widget-button" src="images/but-karpa-2.jpg" onclick="changeImg(2)">
 							<img id="but3" class="kat-widget-button" src="images/but-karpa-3.jpg" onclick="changeImg(3)">
 							<img id="but4" class="kat-widget-button" src="images/but-karpa-4.jpg" onclick="changeImg(4)">
@@ -20,14 +19,15 @@
 						</div>
 						</center>
 						<!--<div>
+							<img id="but1" class="kat-widget-button" src="images/but-karpa-1.jpg" onclick="changeImg(1)">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeClear()">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeDark()">
 						</div>-->
 					</div>
-					<p class="m_1" style="text-align:justify">
+					<p class="m_1" style="text-align:center">
 		   	  	 	The warm characteristic of this design is inspired by one kind forest in Indonesia which dominate natural forest in Indonesia. We make this edition as simple as Indonesia&#39;s forest that looks monochrome but beautiful.
 		   	  	 	</p>
-		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	<p class="m_1" style="text-align:center">
 		   	  	 	Wooden material : Teak and Rosewood (smooth layer)
 		   	  	 	</p>
 		   	  	 	

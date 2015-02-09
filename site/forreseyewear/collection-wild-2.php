@@ -8,7 +8,7 @@
 		   	  	 	<h3>The Sumatran Tiger</h3>
 		   	  	 	<div class="kat-widget center" style="width:60%;">
 						<div>
-							<a id="kat-widget-link" target="_blank" href="images/harimau-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/harimau-1.jpg"></a>
+							<a id="kat-widget-link" target="_blank" href="images/tiger-1.jpg"><img class="prodimg" id="kat-widget-img" src="images/tiger-1.jpg"></a>
 						</div>
 						<center>
 						<div>
@@ -16,24 +16,24 @@
 							<img id="but2" class="kat-widget-button" src="images/but-tiger-2.jpg" onclick="changeImg(2)">
 							<img id="but3" class="kat-widget-button" src="images/but-tiger-3.jpg" onclick="changeImg(3)">
 							<img id="but4" class="kat-widget-button" src="images/but-tiger-4.jpg" onclick="changeImg(4)">
-							<img id="but5" class="kat-widget-button" src="images/harimau-1.jpg" onclick="changeImg(5)">
 						</div>
 						<!--<div>
+							<img id="but5" class="kat-widget-button" src="images/harimau-1.jpg" onclick="changeImg(5)">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeClear()">
 							<img class="kat-widget-button" src="images/button.png" onclick="changeDark()">
 						</div>-->
 					</center>
 					</div>
-		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	<p class="m_1" style="text-align:center">
 		   	  	 	Sumatran Tiger edition is inspired by the unique lines and shapes of tiger. We bring this edition to make you aware that Indonesia has the beautiful animal that is given full protection due to extinction.
 		   	  	 	</p>
-		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	<p class="m_1" style="text-align:center">
 		   	  	 	Wooden Material : Jengkol wood and Teak (smooth layer)
 		   	  	 	</p>
-		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	<p class="m_1" style="text-align:center">
 		   	  	 	We choose the Rosewood and Jengkol because of its strong and cool color characteristic that represent our design with Teak wood layer for beautify.
 		   	  	 	</p>
-		   	  	 	<p class="m_1" style="text-align:justify">
+		   	  	 	<p class="m_1" style="text-align:center">
 		   	  	 	</p>	
 		   	  	    <h4><b>Price : 949k</b></h4>
 		   	  	    <center><a href="order.php" class="btn1 btn-1 btn1-1b">ORDER</a></center>

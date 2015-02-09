@@ -57,7 +57,7 @@
 					               <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 					               <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
 					               </label>
-					               <textarea style="float:right; margin-bottom:2px;" rows="2" cols="50" name="entry.781735046" rows="8" cols="0" class="ss-q-long" id="entry_781735046" dir="auto" aria-label="Address  " aria-required="true" required=""></textarea>
+					               <textarea style="float:right; margin-bottom:2px;" rows="2" cols="49" name="entry.781735046" rows="8" cols="0" class="ss-q-long" id="entry_781735046" dir="auto" aria-label="Address  " aria-required="true" required=""></textarea>
 					               <div class="clearfix"></div>
 					            </div>
 					         </div>

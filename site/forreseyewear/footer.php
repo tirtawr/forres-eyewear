@@ -15,7 +15,7 @@
        </ul>
       </div>
          <p>
-             <center>&copy 2015 Design By Lorem ipsum. All Rights Reserved. Site by Lorem ipsum</center>
+             <center>&copy 2015 Design By Aditya Dwiputra. All Rights Reserved. Site by <a href="https://github.com/tirtawr" target="_blank">Tirta</a> and <a href="https://github.com/tegarajipangestu" target="_blank">Tegar</a></center>
          </p>
      </div> 
      

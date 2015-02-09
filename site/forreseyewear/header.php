@@ -45,7 +45,7 @@
 		  <div class="logo">
 			 <a href="index.php"><img src="images/logoforres40.png" alt=""></a>
 			 <div class="clearfix"></div>	
- 			 <a href="index.php"><img src="images/TheRoot-109.png" alt=""></a>
+ 			 <a href="index.php"><img src="images/TheRoot-109.png" style="width:204px;" alt=""></a>
 		  </div>
 		  <div class="cssmenu">
 				<ul id="nav">

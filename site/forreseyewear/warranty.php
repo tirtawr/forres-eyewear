@@ -15,7 +15,7 @@
 		   	  	 	<ul>
 		   	  	 		<li>Fill claim form and proof of purchase requirement in our website </li>
 		   	  	 		<li>Picture your broken glasses </li>
-		   	  	 		<li>Send it to warranty@forreseyewear.com</li>
+		   	  	 		<li>Send it to hello@forreseyewear.com</li>
 		   	  	 	</ul>
 		   	  	 	<p class="m_1" style="text-align:justify"><b>The following steps of Proof of Purchase :</b></p>
 		   	  	 	<ul>
