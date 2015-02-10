@@ -4,12 +4,12 @@ Design: Aditya Dwiputra -------------------------------------------- UDAH
 
 
 REVISI
-1. Slider homepage, pake onhover
+1. Slider homepage, pake onhover ----------------------------------- UDAH
 2. m_1 line-height:2em; font-size:1em; ----------------------------- UDAH
 3. images/TheRoot-109 width 204px ---------------------------------- UDAH
 4. Order form:
 	-quantities di ke kiri-in
 	-kasih line spacing
-5. Banner utama home page di mentok-in
+5. Banner utama home page di mentok-in ----------------------------- UDAH
 6. Collection: immage fix. Ilangin gambar yang beda ---------------- UDAH
-7. Font <p> Dosis
+7. Font <p> Dosis -------------------------------------------------- UDAH

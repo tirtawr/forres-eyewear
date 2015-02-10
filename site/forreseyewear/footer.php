@@ -22,11 +22,23 @@
 <script>
 
 
+
 $('.ex2').hoverizr({speedOut: 'fast',effect:"blur",overlay: "bottom",container: "blurry",stretch: "yes"});
 
 $(document).ready(function(){
-  $('.your-class').slick({
-  });
+$('#myCarousel2').mouseover(function(){
+  $('.carousel').carousel("cycle");
+});
+$('#myCarousel3').mouseover(function(){
+  $('.carousel').carousel("cycle");
+});
+$('#myCarousel2').mouseleave(function(){
+  $('.carousel').carousel("pause");
+});
+$('#myCarousel3').mouseleave(function(){
+  $('carousel').carousel("pause");
+});
+
 });
 
 $(document).ready(function() {
