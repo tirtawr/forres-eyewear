@@ -103,6 +103,7 @@
                                 <div dir="ltr" class="ss-item  ss-section-header">
                                     <div class="ss-form-entry">
                                         <h2 class="ss-section-title">Your Order</h2>
+                                        <h5>Purchasing only for 1 product, another purchasing please click order form again</h5>
                                         <div class="ss-section-description ss-no-ignore-whitespace"></div>
                                     </div>
                                 </div>
@@ -291,7 +292,7 @@
                                             </li>
                                             <li class="ss-choice-item">
                                                 <label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.699751134" value="Essilor Lens" id="group_699751134_2" role="radio" class="ss-q-radio" aria-label="Essilor Lens"></span>
-                                                    <span class="ss-choice-label">Essilor Lens</span>
+                                                    <span class="ss-choice-label">Essilor Lens (add price according to catalog)</span>
                                                 </label>
                                             </li>
                                         </ul>
