@@ -578,7 +578,7 @@ h3.head{
 }
 .footer_bottom{
 	margin-top: 10px;
-	background:#A68572;
+	background-image: url("../images/maple.jpg");
 	padding:0.5em 0 1em;
 }
 p.copy {

@@ -41,32 +41,37 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <div class="row">
-        <div class="col-lg-6">
-            <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner" role="listbox">
-                    <div class="item active">
-                        <img src="images/tiger-1.jpg" alt="Tiger">
-                    </div>
-
-                    <div class="item">
-                        <img src="images/elang-1.jpg" alt="Elang">
-                    </div>
-                </div>
-            </div>            
+    <div class="row" style="margin-top:15px;">
+        <div class="col-lg-6" style="width:100%">
+            <div id="my-thumbs-list" style="width:100%" class="mThumbnailScroller">
+                <ul style="width:100%">
+                    <li>
+                        <a href="image-1-link"><img style="width:100%" src="images/tiger-home.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="image-2-link"><img style="width:100%" src="images/elang-home.jpg" />
+                        </a>
+                    </li>
+                    <!-- and so on... -->
+                </ul>
+            </div>
         </div>
-        <div class="col-lg-6">
-            <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                <!-- Wrapper for slides -->
-                <div class="carousel-inner" role="listbox">
-                    <div class="item active">
-                        <img src="images/karpa-1.jpg" alt="karpa">
-                    </div>
-                    <div class="item">
-                        <img src="images/tuero-1.jpg" alt="Tuero">
-                    </div>
-                </div>
-            </div>            
+        <div class="col-lg-6" style="width:100%">
+            <div id="my-thumbs-list" style="width:100%" class="mThumbnailScroller">
+                <ul>
+                    <li>
+                        <a href="image-3-link"><img style="width:100%" src="images/karpa-home.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="image-4-link"><img style="width:100%" src="images/tuero-home.jpg" />
+                        </a>
+                    </li>
+                    <!-- and so on... -->
+                </ul>
+            </div>
+
         </div>
     </div>
     <div class="clearfix"></div>
