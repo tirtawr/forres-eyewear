@@ -149,7 +149,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4" style="margin-top:23px; ">
+                            <!-- <div class="col-md-4" style="margin-top:23px; ">
                                 <div class="clearfix"></div>
                                 <div class="ss-form-question errorbox-good" role="listitem">
                                     <div dir="ltr" class="ss-item  ss-text">
@@ -206,7 +206,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="clearfix"></div>
                             <div class="col-md-4" style="text-align:left; padding-left:0px;">
 

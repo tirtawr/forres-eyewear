@@ -8,7 +8,7 @@
 		   	  	 <div class="col-md-8 col-lg-offset-2 about_left">
 		   	  	 	<h3>Contact Us</h3>
 		   	  	 	<p class="m_1" style="text-align:justify">
-		   	  	 		If you have any questions, comments, advice or feedback, don’t hesitate to contact us! 
+		   	  	 		If you have any questions, comments, advice or feedback, don&#39;t hesitate to contact us! 
 		   	  	 		<br>We are exist in a lot of platform such as LINE , Facebook , Twitter , Instagram  , or direct message , only to give you the best service ever.
 		   	  	 	</p>
 		   	  	 	<h4 style="margin-top: 10px;"><b>OPERATION HOURS</b></h4>

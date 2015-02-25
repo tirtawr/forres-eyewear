@@ -9,9 +9,9 @@
         
        <div class="container" style="margin: 15px 0px">
        <ul class="social" style="letter-spacing:2px">
-          <a href="www.facebook.com" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>                
-          <a href="www.twitter.com" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-          <a href="www.instagram.com" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+          <a target="_blank" href="https://www.facebook.com/forreseyewear"><i class="fa fa-facebook fa-2x"></i></a>                
+          <a target="_blank" href="https://twitter.com/ForresEyewear"><i class="fa fa-twitter fa-2x"></i></a>
+          <a target="_blank" href="http://instagram.com/forres_ "><i class="fa fa-instagram fa-2x"></i></a>
        </ul>
       </div>
          <p>

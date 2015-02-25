@@ -35,6 +35,8 @@
   
 <!-- Include js plugin -->
 
+<link rel="icon" href="favicon.png" type="image/png" sizes="16x16 32x32">
+
 
 </head>
 <body>

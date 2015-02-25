@@ -46,11 +46,11 @@
             <div id="my-thumbs-list" class="mThumbnailScroller">
                 <ul>
                     <li>
-                        <a href="image-1-link"><img src="images/tiger-home.jpg" />
+                        <a href="collection-wild.php"><img src="images/tiger-home.jpg" />
                         </a>
                     </li>
                     <li>
-                        <a href="image-2-link"><img src="images/elang-home.jpg" />
+                        <a href="collection-wild.php"><img src="images/elang-home.jpg" />
                         </a>
                     </li>
                     <!-- and so on... -->
@@ -61,11 +61,11 @@
             <div id="my-thumbs-list" class="mThumbnailScroller">
                 <ul>
                     <li>
-                        <a href="image-3-link"><img src="images/karpa-home.jpg" />
+                        <a href="collection-classic.php"><img src="images/karpa-home.jpg" />
                         </a>
                     </li>
                     <li>
-                        <a href="image-4-link"><img src="images/tuero-home.jpg" />
+                        <a href="collection-classic.php"><img src="images/tuero-home.jpg" />
                         </a>
                     </li>
                     <!-- and so on... -->
