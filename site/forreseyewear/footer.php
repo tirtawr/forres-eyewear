@@ -26,24 +26,18 @@
 $('.ex2').hoverizr({speedOut: 'fast',effect:"blur",overlay: "bottom",container: "blurry",stretch: "yes"});
 
 $(document).ready(function(){
-$('#myCarousel2').mouseover(function(){
-  $('.carousel').carousel("cycle");
-});
-$('#myCarousel3').mouseover(function(){
-  $('.carousel').carousel("cycle");
-});
-$('#myCarousel2').mouseleave(function(){
-  $('.carousel').carousel("pause");
-});
-$('#myCarousel3').mouseleave(function(){
-  $('carousel').carousel("pause");
+  $('.carousel').carousel({
+  interval: 2000;
+  wrap:false;
+})
+
 });
 
 });
 
 $(document).ready(function() {
  
-  $("#owl-demo").owlCarousel({
+  $("#owl-demo-left").owlCarousel({
  
       slideSpeed : 300,
       paginationSpeed : 400,
@@ -59,6 +53,24 @@ $(document).ready(function() {
       // itemsMobile : false
  
   });
+
+  $("#owl-demo-right").owlCarousel({
+ 
+      slideSpeed : 300,
+      paginationSpeed : 400,
+      singleItem:true,
+      autoPlay : 4000,
+      pagination : false,
+ 
+      // "singleItem:true" is a shortcut for:
+      // items : 1, 
+      // itemsDesktop : false,
+      // itemsDesktopSmall : false,
+      // itemsTablet: false,
+      // itemsMobile : false
+ 
+  });
+
   $('.slick-demo-right').slick({   
     autoplay : true,
   });
